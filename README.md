@@ -1,5 +1,5 @@
 # Thesis_Scripts
-![Project Logo](https://www.canva.com/design/DAEdWTBvnEQ/KRgEhhKVuS3LXVuMMmaWAg/view?utm_content=DAEdWTBvnEQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+![Project Logo](land.png)
 # Without_data_augmentation Folder
 * **Filename**: 1 - load_original_delete_unnecessary_variables
 
