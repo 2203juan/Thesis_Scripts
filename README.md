@@ -1,4 +1,4 @@
-# Thesis_Scripts
+# Thesis Repository - Juan José Hoyos Urcué
 ![Project Logo](land.png)
 # Without_data_augmentation Folder
 * **Filename**: 1 - load_original_delete_unnecessary_variables
