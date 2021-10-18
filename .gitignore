@@ -1,7 +1,5 @@
 without_data_augmentation/__pycache__
 with_data_augmentation/__pycache__
 .DS_Store
-with_data_augmentation/.DS_Store
-without_data_augmentation/.DS_Store
-with_data_augmentation/.ipynb_checkpoints
-without_data_augmentation/.ipynb_checkpoints
+**/.DS_Store
+**/.ipynb_checkpoints
