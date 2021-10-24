@@ -1,9 +1,18 @@
 # Thesis Repository - Juan José Hoyos Urcué
-This is the repository of the code for the degree work carried out by Juan Jose Hoyos Urcué.
-
-Inside the folders 1-without_data_augmentation and 2-with_data_augmentation is a README.md file that explains the order and functionality of the directories.
+This is the code repository for my underdegree Thesis.
 
 ![Project Logo](land.png)
+
+Inside this repository there are two folders (dataset-1 and dataset-2)
+
+**dataset-1**: contains the thesis code applied to the initial data set provided by CIDEIM, with which the research was almost completely developed.
+
+**dataset-2**: contains the same code with minor modifications adapted to a new dataset provided by CIDEIM in the last months of my research. 
+
+
+Within these directories, you will find same two folders : 1-without_data_augmentation and 2-with_data_augmentation
+
+Inside these two folder you will find a  README.md file that explains the order and functionality of each jupyter notebook file.
 
 
 
