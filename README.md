@@ -14,7 +14,10 @@ Within these directories, you will find same two folders : 1-without_data_augmen
 
 Inside these two folder you will find a  README.md file that explains the order and functionality of each jupyter notebook file.
 
+To look for the best model GUI prediction , please build and run the docker image hosted in this repo:
+https://github.com/2203juan/LeishPredict-web
 
+it exposes the web app into port 5000.
 
 
 
