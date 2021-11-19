@@ -17,6 +17,8 @@ Inside these two folder you will find a  README.md file that explains the order 
 To look for the best model GUI prediction , please build and run the docker image hosted in this repo:
 https://github.com/2203juan/LeishPredict-web
 
+add also the dataset shared with you into core_app folder
+
 it exposes the web app into port 5000.
 
 
